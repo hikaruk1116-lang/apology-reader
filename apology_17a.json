@@ -1,0 +1,15 @@
+[
+  { "surface": "Ὅτι", "lemma": "ὅτι", "pos": "conjunction", "meaning": "how / that", "shumpu_page": 912 },
+  { "surface": "μὲν", "lemma": "μέν", "pos": "particle", "meaning": "on the one hand / indeed", "shumpu_page": 925 },
+  { "surface": "ὑμεῖς,", "lemma": "ὑμεῖς", "pos": "personal pronoun (nom pl)", "meaning": "you (plural)", "shumpu_page": 1450 },
+  { "surface": "ὦ", "lemma": "ὦ", "pos": "interjection", "meaning": "O", "shumpu_page": 1420 },
+  { "surface": "ἄνδρες", "lemma": "ἀνήρ", "pos": "noun (voc pl masc)", "meaning": "men / citizens", "shumpu_page": 112 },
+  { "surface": "Ἀθηναῖοι,", "lemma": "Ἀθηναῖος", "pos": "adjective/proper noun (voc pl)", "meaning": "Athenians", "shumpu_page": 60 },
+  { "surface": "πεπόνθατε", "lemma": "πάσχω", "pos": "verb (2nd pl perf act)", "meaning": "you have experienced / felt", "shumpu_page": 1042 },
+  { "surface": "ὑπὸ", "lemma": "ὑπό", "pos": "preposition (+gen)", "meaning": "by / under the influence of", "shumpu_page": 1435 },
+  { "surface": "τῶν", "lemma": "ὁ", "pos": "article (gen pl masc)", "meaning": "the", "shumpu_page": 1080 },
+  { "surface": "ἐμῶν", "lemma": "ἐμός", "pos": "possessive adj (gen pl masc)", "meaning": "my", "shumpu_page": 405 },
+  { "surface": "λόγων,", "lemma": "λόγος", "pos": "noun (gen pl masc)", "meaning": "words / speeches", "shumpu_page": 815 },
+  { "surface": "οὐκ", "lemma": "οὐ", "pos": "adverb / negative", "meaning": "not", "shumpu_page": 950 },
+  { "surface": "οἶδα·", "lemma": "οἶδα", "pos": "verb (1st sg perf act)", "meaning": "I know", "shumpu_page": 970 }
+]
